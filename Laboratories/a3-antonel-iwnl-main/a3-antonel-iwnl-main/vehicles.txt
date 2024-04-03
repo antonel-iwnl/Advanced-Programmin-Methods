@@ -1,0 +1,8 @@
+1;Audi A4;Wagon;black;2010;10000;100000
+2;Dacia Logan;Sedan;White;2017;9800;30570
+3;BMW X5;SUV;Black;2019;100000;104000
+4;Audi A4;Sedan;Silver;2018;31900;67540
+5;Volkswagen Golf;Hatchback;Yellow;2016;18750;63256
+6;Mercedes-Benz AMG E63S;Sedan;Black;2019;240000;7500
+7;Audi RSQ7;SUV;Carbon Red;2017;90000;90000
+8;BMW M340i;Sedan;Laguna Blue;2018;70000;14500
